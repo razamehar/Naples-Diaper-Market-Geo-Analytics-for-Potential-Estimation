@@ -55,15 +55,9 @@ In summary, the FATER Geo-Analytics Challenge delivers actionable recommendation
 This project is licensed under the Raza Mehar License. See the LICENSE.md file for details.
 
 ## Contact:
-For any questions or clarifications, please contact Raza Mehar at [raza.mehar@gmail.com], Pujan Thapa at [impujan@outlook.com] or Syed Najam Mehdi at [najam.electrical.ned@gmail.com].
+For any questions or clarifications, please contact Raza Mehar at [raza.mehar@gmail.com], Pujan Thapa at [iampujan@outlook.com] or Syed Najam Mehdi at [najam.electrical.ned@gmail.com].
 
 ## Bibliography & References
 - Alan Agresti, Maria Kateri. “Foundations of Statistics for Data Scientists with R and Python”. CRC Press. 2022.
 - Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili. “Machine Learning with PyTorch and Scikit-Learn”. Packt Publishing Ltd. 2022.
 - Aurélien Géron. “Hands-On Machine Learning with Scikit-Learn & TensorFlow”. O’Reille Media. 2019.
-
-## License:
-This project is licensed under the Raza Mehar License. See the LICENSE.md file for details.
-
-## Contact:
-For any questions or clarifications, please contact Raza Mehar at [raza.mehar@gmail.com].
