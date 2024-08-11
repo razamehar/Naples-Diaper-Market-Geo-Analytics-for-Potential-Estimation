@@ -1,9 +1,9 @@
 # Naples Diaper Market Geo-Analytics for Potential Estimation
 
 ## Project Overview
-Analyzing Fater company's diaper market potential and enhancing revenue estimation for Naples stores: A Socio-Demographic, Territorial, and Points of Interest Perspective
+Assessing the diaper market potential for Fater (a P&G subsidiary) and refining revenue forecasts for Naples stores through socio-demographic, geographic, and points of interest analysis.
 
-The FATER Geo-Analytics Challenge explores the estimation of potential revenue for Naples stores throughout the entire province, with a focus on the Italian diaper market (in 1000s). The study incorporates a detailed approach, considering socio-demographic factors, geographical features, and points of interest, to extract insights for strategic decision-making in the competitive retail landscape.
+This project explores the estimation of potential revenue for Naples stores throughout the entire province, with a focus on the Italian diaper market (in 1000s). The study incorporates a detailed approach, considering socio-demographic factors, geographical features, and points of interest, to extract insights for strategic decision-making in the competitive retail landscape.
 
 A primary revelation from our analysis is the influence of hypermarkets and larger stores in shaping potential revenue dynamics. These establishments demonstrate a considerable capacity for customer retention and sales generation. Their expansive footprint in the market positions them as pivotal players, warranting strategic marketing emphasis to leverage their inherent potential fully.
 
